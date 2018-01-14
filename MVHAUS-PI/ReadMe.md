@@ -44,7 +44,7 @@ View 1: 38.66<br /><br />
 
 <b>Two views scenario:</b><br />
 Views 1 and 2: 47.44<br />
-Views 1 and 3: 47.287<br />
+Views 1 and 3: 47.28<br />
 Views 2 and 3: 44.73<br /><br />
 
 <b>Three views scenario:</b><br />
