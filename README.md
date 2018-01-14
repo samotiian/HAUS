@@ -1,4 +1,8 @@
 ## Multi-View Human Interaction dataset 
+
+<center><img src="https://github.com/samotiian/HAUS/blob/master/images/Samples_MV.png" alt="set up"  width="900" height="387" align="middle" ></center>
+
+
 We collected the Human Activities Under Surveillance – Person Interaction (HAUS-PI) dataset and the Multiple Views version of HAUS-PI, indicated as MVHAUS-PI: 
 
 1. The dataset comprises videos of 16 person interaction classes with approximately 45 samples per class: 
@@ -24,3 +28,15 @@ We collected the Human Activities Under Surveillance – Person Interaction (HAU
 <p align="center">
   <img width="460" height="300" src="https://github.com/samotiian/HAUS/blob/master/images/Site.png">
 </p>
+
+* <b>HAUS-PI</b> consists of high resolution videos captured from the camcorder. 
+* <b>MVHAUS-PI</b> consists of videos captured from PTZ cameras.
+
+
+3. Some image samples of the MVHAUS-PI dataset:
+<center><img src="https://github.com/samotiian/HAUS/blob/master/images/MVHAUS_PI.png" alt="set up"  width="900" height="387" align="middle" ></center>
+
+4. Some image samples of the HAUS-PI dataset:
+<center><img src="https://github.com/samotiian/HAUS/blob/master/images/HAUS_PI.png" alt="set up"  width="900" height="387" align="middle" ></center>
+
+
