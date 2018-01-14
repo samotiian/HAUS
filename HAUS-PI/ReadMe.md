@@ -32,3 +32,18 @@ The videos are captured using the camcorder:
 (an interaction is obviously happening).
 * <b>pts:</b> Contains bounding-box information of individuals in videos (top left and bottom right). 
 * <b>Pmatrix:</b> Contains p-matrix.
+
+## Results
+
+Accuracy on HAUS-PI using ground-truth annotation: 54.09
+Please look at the below paper for more information:
+
+@article{motiian2017online,
+  title={Online Human Interaction Detection and Recognition with Multiple Cameras},
+  author={Motiian, Saeid and Siyahjani, Farzad and Almohsen, Ranya and Doretto, Gianfranco},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={27},
+  number={3},  pages={649--663},
+  year={2017},  publisher={IEEE}
+}
+
