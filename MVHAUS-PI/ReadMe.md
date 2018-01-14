@@ -37,17 +37,17 @@ The videos are captured using the PTZ cameras:
 
 Accuracy on MVHAUS-PI using ground-truth annotation:
 
-<b>Single view scenario:</b>
+<b>Single view scenario:</b><br />
 View 1: 36.74<br />
 View 1: 34.35<br />
 View 1: 38.66<br /><br />
 
-<b>Two views scenario:</b>
+<b>Two views scenario:</b><br />
 Views 1 and 2: 47.44<br />
 Views 1 and 3: 47.287<br />
 Views 2 and 3: 44.73<br /><br />
 
-<b>Three views scenario:</b>
+<b>Three views scenario:</b><br />
 Views 1, 2, and 3: 60.38<br /><br />
 
 
