@@ -22,5 +22,5 @@ patting (PA)
 
 2. A sketch of the collection site is shown in figure below, where a camcorder, with 1280✕720 of progressive pixel resolution, and three surveillance cameras, with 640✕480 of interlaced pixel resolution, were used to record the activities in the visible area: 
 <p align="center">
-  <img width="460" height="300" src="file:///home/saied/Downloads/Untitled%20Folder%205/images/Site.png">
+  <img width="460" height="300" src="https://www.w3schools.com/howto/img_fjords.jpg">
 </p>
