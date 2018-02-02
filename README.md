@@ -40,7 +40,7 @@ We collected the Human Activities Under Surveillance – Person Interaction (HAU
 <center><img src="https://github.com/samotiian/HAUS/blob/master/images/HAUS_PI.png" alt="set up"  width="900" height="387" align="middle" ></center>
 
 More information at:
-https://vision.csee.wvu.edu/HAUS
+http://vision.csee.wvu.edu/HAUS
 
 
 
