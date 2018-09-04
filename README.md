@@ -44,3 +44,6 @@ http://vision.csee.wvu.edu/HAUS
 
 
 
+Key words: Multi view human interaction recognition, action recognition, multiple camera video surveillance, segmentation, activity and action detection, Cross view action recognition, Multiview benchmark dataset.
+
+
